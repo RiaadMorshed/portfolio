@@ -1,6 +1,13 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-    output: 'export',
-}
+// @ts-check
 
-module.exports = nextConfig
+/**
+ * @type {import('next').NextConfig}
+ **/
+const nextConfig = {
+  images: {
+    loader: 'custom',
+    loaderFile: './asset/loader.js',
+  },
+};
+  
+  module.exports = nextConfig;

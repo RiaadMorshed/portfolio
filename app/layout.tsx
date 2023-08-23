@@ -1,10 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
 import Navbar from "../compnents/Navbar";
 import Footer from "../compnents/Footer";
-
-const inter = Inter({ subsets: ["latin"] });
 
 import "@fortawesome/fontawesome-svg-core/styles.css";
 import { config } from "@fortawesome/fontawesome-svg-core";
