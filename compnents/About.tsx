@@ -19,7 +19,7 @@ const About = () => {
         </div>
         <div className="about-img">
           <Image
-            src="/MorshedPic.jpg"
+            src="/dn2xmjsug/image/upload/v1692556286/MorshedPic_zb4gnh.jpg"
             alt="Morshed Pic"
             className="profile-img"
             width={300}

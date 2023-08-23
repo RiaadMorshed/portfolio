@@ -6,7 +6,7 @@ const Banner = () => {
   return (
     <div className="hero-container">
       <Image
-        src="/MorshedPic.jpg"
+        src="/dn2xmjsug/image/upload/v1692556286/MorshedPic_zb4gnh.jpg"
         className="profile-img"
         width={300}
         height={300}
